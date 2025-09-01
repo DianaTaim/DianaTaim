@@ -1,7 +1,4 @@
 ### Hi there 👋
 
 my name is Diana Taymusheva and I'm Data Analyst. 
-I was graduated from Yandex.Praktikum school in 2023.
-I worked on 13 projects. Some of them published here.
-I'm currently working in Sberbank.
-Data Science: Python, Pandas, Numpy, Matplotlib, Seaborn, SQL.
+Data Analyst with 5+ years of experience in the banking sector, specializing in big data processing and advanced analytics. Proven expertise in leveraging PySpark, SQL, and Python to build data-driven solutions, develop interactive dashboards, and uncover actionable insights for business growth. Strong background in distributed computing systems like Hadoop (HDFS, Hive), Greenplum, and Trino. Completed advanced training in Data Analysis and Machine Learning to continuously enhance technical skills.
